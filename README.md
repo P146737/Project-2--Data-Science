@@ -1,0 +1,1 @@
+Remote Work Productivity Analysis explores the impact of remote work on employee productivity and well-being. Using a publicly available dataset, I've analysed how working hours and employment type which is classifed into remote and in-office, affect both productivity and well-being. The key insights of data are derived from Data Cleaning, Exploratory Analysis and Visualizations.
